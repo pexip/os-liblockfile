@@ -1,3 +1,9 @@
+liblockfile (1.09-3ubuntu0.1pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Tue, 24 Dec 2013 21:42:41 +0000
+
 liblockfile (1.09-3ubuntu0.1) precise-proposed; urgency=low
 
   * debian/patches/fix-buffer-overflows.patch: Fix buffer overflows when

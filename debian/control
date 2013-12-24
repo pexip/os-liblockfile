@@ -1,11 +1,13 @@
 Source: liblockfile
 Section: devel
 Priority: standard
-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 XSBC-Original-Maintainer: Miquel van Smoorenburg <miquels@cistron.nl>
-Uploaders: Anibal Monsalve Salazar <anibal@debian.org>
+XSBC-Pexip-Original-Uploaders: Anibal Monsalve Salazar <anibal@debian.org>
 Standards-Version: 3.8.4
 Build-depends: dpkg-dev (>= 1.16.0)
+XS-Pexip-Upstream: http://archive.ubuntu.com/ubuntu/ precise
 
 Package: liblockfile1
 Section: libs
